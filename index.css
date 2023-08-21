@@ -42,21 +42,6 @@ body {
     padding: 0 12px;
   }
   
-  @media (max-width: 600px) {
-  
-    .nav-links a {
-      font-size: 12px;
-      text-decoration: underline;
-    }
-    .about-section {
-      display: flex;
-      flex-wrap: wrap;
-    }
-    .watchvideo-btn {
-      margin-bottom: 10px;
-    }
-  }
-  
   main {
     padding: 0 40px;
   }
@@ -101,28 +86,9 @@ body {
     margin-bottom: 50px;
   }
 
-  .project-2 {
+  .project1 {
     order: -1;
   }
-  .project p {
-    line-height: 30px;
-    color: #484551;
-  }
-  .project a {
-    color: #4fa3db;
-  }
-
-
-
-
-
-
-
-
-
-
-
-
 
   footer {
     margin: 0;
